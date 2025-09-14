@@ -1,11 +1,14 @@
 [phases.setup]
-nixPkgs = ['php81', 'php81Packages.composer', 'nginx']
+nixPkgs = ['php82', 'php82Packages.composer']
+
+[phases.install]
+cmds = ['composer install --no-dev --optimize-autoloader']
 
 [phases.build]
-cmds = ['echo "Building PHP application..."']
+cmds = ['echo "Building PHP Car Rental System..."']
 
 [phases.start]
-cmd = 'php -S 0.0.0.0:$PORT -t .'
+cmd = 'php -S 0.0.0.0:$PORT -t . -d display_errors=0 -d log_errors=1'
 
 [variables]
-PHP_VERSION = '8.1'
+PHP_VERSION = '8.2'
