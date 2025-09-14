@@ -473,19 +473,26 @@ This software is free for commercial use under the MIT license terms. For enterp
 
 ## 📞 Support & Contact
 
-### **Technical Support**
-- **GitHub Issues**: [Report bugs and feature requests](https://github.com/workeainc/Car-Rental-System/issues)
-- **Documentation**: [Wiki and API docs](https://github.com/workeainc/Car-Rental-System/wiki)
-- **Community Forum**: [Discussions and Q&A](https://github.com/workeainc/Car-Rental-System/discussions)
+### 🆘 **Getting Help**
+- **Documentation**: Check the comprehensive docs above
+- **Issues**: Report bugs via GitHub Issues
+- **Discussions**: Use GitHub Discussions for questions
+- **Email**: Contact us at support@easoftlab.com
+
+### 🌐 **Connect With Us**
+- **Website**: [https://easoftlab.com](https://easoftlab.com)
+- **GitHub**: [https://github.com/workeainc/EA-Soft-Lab](https://github.com/workeainc/EA-Soft-Lab)
+- **LinkedIn**: [EA Soft Lab](https://www.linkedin.com/company/easoftlab)
+- **Twitter**: [@easoftlab](https://twitter.com/easoftlab)
 
 ### **Commercial Inquiries**
-- **Company**: WorkeAI Inc.
-- **Email**: contact@workeai.com
-- **Website**: [www.workeai.com](https://www.workeai.com)
-- **LinkedIn**: [WorkeAI Inc.](https://www.linkedin.com/company/workeai)
+- **Company**: EA Soft Lab
+- **Email**: support@easoftlab.com
+- **Website**: [https://easoftlab.com](https://easoftlab.com)
+- **LinkedIn**: [EA Soft Lab](https://www.linkedin.com/company/easoftlab)
 
 ### **Development Team**
-- **Lead Developer**: WorkeAI Development Team
+- **Lead Developer**: EA Soft Lab Development Team
 - **Project Maintainer**: [@workeainc](https://github.com/workeainc)
 - **Contributors**: [View all contributors](https://github.com/workeainc/Car-Rental-System/contributors)
 
@@ -508,6 +515,8 @@ Special thanks to:
 [![GitHub stars](https://img.shields.io/github/stars/workeainc/Car-Rental-System.svg?style=social&label=Star)](https://github.com/workeainc/Car-Rental-System/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/workeainc/Car-Rental-System.svg?style=social&label=Fork)](https://github.com/workeainc/Car-Rental-System/network)
 
-**Made with ❤️ by WorkeAI Inc.**
+**Built with ❤️ by EA Soft Lab**
+
+*Empowering businesses through innovative software solutions*
 
 </div>
