@@ -1,0 +1,27 @@
+{
+    "name": "car-rental/system",
+    "description": "Car Rental Management System with PHP and MySQL",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "ext-mysqli": "*",
+        "ext-pdo": "*",
+        "ext-json": "*",
+        "ext-session": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CarRental\\": "src/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "start": "php -S localhost:8000 -t ."
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
